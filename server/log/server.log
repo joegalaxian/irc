@@ -1,0 +1,154 @@
+2017-12-02 17:24:50,240 - Server - INFO - Server started.
+2017-12-02 17:26:21,566 - Server - INFO - Server started.
+2017-12-02 17:26:36,667 - Server - INFO - Server started.
+2017-12-02 17:27:03,286 - Server - INFO - Server started.
+2017-12-02 17:27:13,559 - Server - INFO - Server started.
+2017-12-02 17:28:06,306 - Server - INFO - Server started.
+2017-12-02 17:29:48,646 - Server - INFO - Server started.
+2017-12-02 17:30:13,830 - Server - INFO - Server started.
+2017-12-02 17:30:35,710 - Server - INFO - Server started.
+2017-12-02 17:30:47,619 - Server - INFO - Server started.
+2017-12-02 18:08:11,732 - Server - INFO - Server started.
+2017-12-02 18:09:42,927 - Server - INFO - Server started at localhost 8888.
+2017-12-03 08:45:10,986 - Server - INFO - Server started at localhost 8888.
+2017-12-03 08:46:07,318 - Server - INFO - IRC Server - v0.1
+2017-12-03 08:46:07,320 - Server - INFO - Server started at localhost 8888.
+2017-12-03 08:51:33,072 - Server - INFO - IRC Server - v0.1
+2017-12-03 08:51:33,074 - Server - INFO - Server started at localhost 8888.
+2017-12-03 08:53:33,090 - Server - INFO - IRC Server - v0.1
+2017-12-03 08:53:33,092 - Server - INFO - Server started at localhost 8888.
+2017-12-03 08:53:39,546 - Server - INFO - New client 127.0.0.1 51726
+2017-12-03 08:55:15,776 - Server - INFO - IRC Server - v0.1
+2017-12-03 08:55:15,778 - Server - INFO - Server started at localhost 8888.
+2017-12-03 08:55:21,918 - Server - INFO - Client connected: 127.0.0.1 51731
+2017-12-03 08:55:25,028 - Server - INFO - Client disconnected
+2017-12-03 09:09:35,587 - Server - INFO - Client connected: 127.0.0.1 51738
+2017-12-03 09:18:08,516 - Server - INFO - IRC Server - v0.1
+2017-12-03 09:18:08,518 - Server - INFO - Server started: localhost 8888
+2017-12-03 09:18:40,770 - Server - INFO - IRC Server - v0.1 started at localhost 8888
+2017-12-03 09:18:53,373 - Server - INFO - IRC Server v0.1 started at localhost 8888
+2017-12-03 09:20:36,046 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 09:21:35,247 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 09:32:36,277 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:29:18,534 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:30:56,479 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:31:04,699 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52304
+2017-12-03 10:31:28,628 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 10:34:56,644 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:35:02,283 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52380
+2017-12-03 10:35:22,959 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:35:31,419 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52385
+2017-12-03 10:36:09,321 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:36:13,104 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52393
+2017-12-03 10:39:11,563 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 10:39:28,648 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52431
+2017-12-03 10:40:22,492 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 10:40:24,627 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:40:30,069 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52447
+2017-12-03 10:42:57,912 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:43:37,670 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:43:43,231 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52504
+2017-12-03 10:44:27,710 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 10:44:36,767 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:44:53,766 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52522
+2017-12-03 10:44:58,355 - IRC Server v0.1 - INFO - ['asdasd', 'asdasda', 'sasdasd']
+2017-12-03 10:45:03,418 - IRC Server v0.1 - INFO - ['-u', 'jose', 'pass']
+2017-12-03 10:45:51,450 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 10:45:58,056 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 52538
+2017-12-03 10:46:02,108 - IRC Server v0.1 - INFO - ['-u', 'jose', 'pass']
+2017-12-03 11:10:40,626 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 11:10:49,368 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53100
+2017-12-03 11:10:55,534 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
+2017-12-03 11:11:16,095 - IRC Server v0.1 - INFO - []
+2017-12-03 11:11:16,095 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 11:11:19,189 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 11:11:24,335 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53107
+2017-12-03 11:11:26,789 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
+2017-12-03 11:13:08,440 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 11:13:18,824 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53151
+2017-12-03 11:13:21,325 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
+2017-12-03 11:13:59,323 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 11:14:06,056 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53166
+2017-12-03 11:14:08,684 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
+2017-12-03 11:14:39,555 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 11:14:45,171 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53182
+2017-12-03 11:14:48,721 - IRC Server v0.1 - INFO - ['-u', 'pepe', 'pepe']
+2017-12-03 12:44:12,817 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 12:49:55,845 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53678
+2017-12-03 12:50:02,781 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53679
+2017-12-03 12:50:12,489 - IRC Server v0.1 - INFO - ['ls']
+2017-12-03 12:50:25,235 - IRC Server v0.1 - INFO - []
+2017-12-03 12:50:25,235 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 12:50:30,787 - IRC Server v0.1 - INFO - ['-q']
+2017-12-03 12:57:29,399 - IRC Server v0.1 - INFO - []
+2017-12-03 12:57:29,399 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 12:57:55,543 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53728
+2017-12-03 13:02:36,710 - IRC Server v0.1 - INFO - []
+2017-12-03 13:02:36,710 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:02:39,324 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:03:02,782 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53744
+2017-12-03 13:03:26,042 - IRC Server v0.1 - INFO - ['-q']
+2017-12-03 13:03:26,042 - IRC Server v0.1 - INFO - []
+2017-12-03 13:03:26,043 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:09:19,285 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53786
+2017-12-03 13:09:23,426 - IRC Server v0.1 - INFO - ['ads']
+2017-12-03 13:09:46,526 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:09:53,829 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53790
+2017-12-03 13:10:04,403 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
+2017-12-03 13:32:25,432 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:32:48,906 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53870
+2017-12-03 13:32:54,377 - IRC Server v0.1 - INFO - ['asd']
+2017-12-03 13:32:57,065 - IRC Server v0.1 - INFO - ['-u']
+2017-12-03 13:33:24,203 - IRC Server v0.1 - INFO - []
+2017-12-03 13:33:24,203 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:33:28,834 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:33:31,074 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:33:45,811 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53873
+2017-12-03 13:33:47,792 - IRC Server v0.1 - INFO - ['-u']
+2017-12-03 13:33:50,065 - IRC Server v0.1 - INFO - ['-i']
+2017-12-03 13:34:18,680 - IRC Server v0.1 - INFO - []
+2017-12-03 13:34:18,681 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:34:25,761 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53876
+2017-12-03 13:34:27,718 - IRC Server v0.1 - INFO - ["asd'"]
+2017-12-03 13:34:29,005 - IRC Server v0.1 - INFO - ['-q']
+2017-12-03 13:42:59,220 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:44:03,811 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53938
+2017-12-03 13:50:10,857 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:50:27,359 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53985
+2017-12-03 13:50:30,180 - IRC Server v0.1 - INFO - ['asd']
+2017-12-03 13:50:32,069 - IRC Server v0.1 - INFO - []
+2017-12-03 13:50:32,069 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:50:58,399 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:51:07,272 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:51:11,934 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53987
+2017-12-03 13:51:14,531 - IRC Server v0.1 - INFO - ['asda']
+2017-12-03 13:51:17,092 - IRC Server v0.1 - INFO - []
+2017-12-03 13:51:17,092 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:51:41,796 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53989
+2017-12-03 13:51:43,032 - IRC Server v0.1 - INFO - ['ads']
+2017-12-03 13:51:44,609 - IRC Server v0.1 - INFO - ['-q']
+2017-12-03 13:55:16,125 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:55:20,213 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53996
+2017-12-03 13:55:21,429 - IRC Server v0.1 - INFO - []
+2017-12-03 13:56:03,467 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:56:08,173 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 53998
+2017-12-03 13:56:10,644 - IRC Server v0.1 - INFO - []
+2017-12-03 13:56:10,645 - IRC Server v0.1 - INFO - Lambdeado!
+2017-12-03 13:56:10,645 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 13:56:46,897 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 13:56:52,483 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 54002
+2017-12-03 13:56:53,762 - IRC Server v0.1 - INFO - ['ads']
+2017-12-03 13:56:55,356 - IRC Server v0.1 - INFO - []
+2017-12-03 13:56:55,356 - IRC Server v0.1 - INFO - Lambdeado!
+2017-12-03 13:56:55,356 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 14:00:44,409 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 14:00:47,916 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 54026
+2017-12-03 14:00:48,539 - IRC Server v0.1 - INFO - []
+2017-12-03 14:00:48,540 - IRC Server v0.1 - INFO - Filtrado!
+2017-12-03 14:00:48,540 - IRC Server v0.1 - INFO - Client disconnected
+2017-12-03 14:12:58,614 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 14:13:07,043 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 54087
+2017-12-03 14:13:09,642 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
+2017-12-03 14:14:16,520 - IRC Server v0.1 - INFO - Server started at localhost 8888
+2017-12-03 14:14:23,141 - IRC Server v0.1 - INFO - Client connected: 127.0.0.1 54089
+2017-12-03 14:14:25,945 - IRC Server v0.1 - INFO - ['-u', 'jose', 'jose']
