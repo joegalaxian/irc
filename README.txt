@@ -1,19 +1,11 @@
-# irc
+NAME    : IRC
+LICENSE : GNU General Public License
+DATE    : 2017-12-03
+VERSION : v0.1
+AUTHOR  : @joegalaxian
 
-----------------------
-IRC
-Version : v1
-Date    : 2017-11-29
-Author  : @joegalaxian
-----------------------
-
-OBJECTS
-- app.py     : Main application script.
-- config.py  : Configuration file.
-- README.txt : Readme file.
-- purge.sh   : Cleanup script that removes *.pyc files.
-- src/       :
-	- clss/  :
-		- channel.py :
-		- chat.py    :
-		- user.py    :
+OBJECTS:
+server/        : Server
+client-local/  : Local client
+client-mobile/ : Mobile client
+client-web/    : Web client
